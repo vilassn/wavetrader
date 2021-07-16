@@ -48,5 +48,15 @@
     "name": "VEDL",
     "value": 0,
     "selected": true
+  },
+  {
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0,
+    "name": "JAICORPLTD",
+    "value": 0,
+    "selected": true
   }
 ]

@@ -1,26 +1,38 @@
 [
   {
-    "symbol": "Nifty Bank",
+    "symbol": "BAJAJ-AUTO",
     "interval": "1d",
-    "strategy": "ChartLongStrategy",
-    "entryType": "BUY",
+    "strategy": "ChartShortStrategy",
+    "entryType": "SELL",
     "exitType": "OPEN",
-    "entryDate": 1621591200,
-    "exitDate": 1622006285,
-    "profit": 0.49,
-    "entryPrice": 34606.9,
-    "exitPrice": 34776.15
+    "entryDate": 1626256800,
+    "exitDate": 1626429600,
+    "profit": 0.55,
+    "entryPrice": 3953.85,
+    "exitPrice": 3931.95
   },
   {
-    "symbol": "BHARTIARTL",
+    "symbol": "RELIANCE",
     "interval": "1d",
-    "strategy": "ChartLongStrategy",
-    "entryType": "BUY",
+    "strategy": "ChartShortStrategy",
+    "entryType": "SELL",
     "exitType": "OPEN",
-    "entryDate": 1621591200,
-    "exitDate": 1622006220,
-    "profit": -0.14,
-    "entryPrice": 530.95,
-    "exitPrice": 530.2
+    "entryDate": 1624606020,
+    "exitDate": 1626429600,
+    "profit": -0.12,
+    "entryPrice": 2109.8,
+    "exitPrice": 2112.4
+  },
+  {
+    "symbol": "GMRINFRA",
+    "interval": "1d",
+    "strategy": "ChartShortStrategy",
+    "entryType": "SELL",
+    "exitType": "OPEN",
+    "entryDate": 1626256740,
+    "exitDate": 1626429600,
+    "profit": -0.16,
+    "entryPrice": 31.05,
+    "exitPrice": 31.1
   }
 ]

@@ -322,7 +322,7 @@
       },
       "name": "EMA20 : {period\u003d20}",
       "value": 0,
-      "selected": true
+      "selected": false
     },
     {
       "type": "IND_ZTREND",
@@ -392,7 +392,7 @@
       },
       "name": "Fisher : {period\u003d14, signal\u003d3}",
       "value": 0,
-      "selected": true
+      "selected": false
     },
     {
       "type": "IND_RSI",
@@ -511,6 +511,15 @@
       "name": "DonchianChannels : {period\u003d14}",
       "value": 0,
       "selected": false
+    },
+    {
+      "type": "IND_SMA",
+      "params": {
+        "period": 50
+      },
+      "name": "SMA50 : {period\u003d50}",
+      "value": 0,
+      "selected": true
     }
   ],
   "mChartTypes": [
@@ -656,14 +665,29 @@
       "value": 0,
       "selected": true
     },
+    "ST_EXPNEAR": {
+      "name": "near",
+      "value": 0,
+      "selected": true
+    },
+    "ST_EXPNEXT": {
+      "name": "next",
+      "value": 0,
+      "selected": true
+    },
+    "ST_EXPFAR": {
+      "name": "far",
+      "value": 0,
+      "selected": true
+    },
     "ST_PRACTICEMODE": {
       "name": "Pratice",
       "value": 0,
       "selected": false
     },
     "ST_PRACTISEDATE": {
-      "name": "PraticeDate",
-      "value": 20200527,
+      "name": "20210617",
+      "value": 0,
       "selected": false
     },
     "ST_USERID": {
