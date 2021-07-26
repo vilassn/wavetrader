@@ -6,10 +6,10 @@
     "entryType": "SELL",
     "exitType": "OPEN",
     "entryDate": 1626256800,
-    "exitDate": 1626429600,
-    "profit": 0.55,
+    "exitDate": 1627293600,
+    "profit": 2.97,
     "entryPrice": 3953.85,
-    "exitPrice": 3931.95
+    "exitPrice": 3836.35
   },
   {
     "symbol": "RELIANCE",
@@ -18,10 +18,10 @@
     "entryType": "SELL",
     "exitType": "OPEN",
     "entryDate": 1624606020,
-    "exitDate": 1626429600,
-    "profit": -0.12,
+    "exitDate": 1627293600,
+    "profit": 1.56,
     "entryPrice": 2109.8,
-    "exitPrice": 2112.4
+    "exitPrice": 2076.85
   },
   {
     "symbol": "GMRINFRA",
@@ -30,9 +30,9 @@
     "entryType": "SELL",
     "exitType": "OPEN",
     "entryDate": 1626256740,
-    "exitDate": 1626429600,
-    "profit": -0.16,
+    "exitDate": 1627293600,
+    "profit": 9.02,
     "entryPrice": 31.05,
-    "exitPrice": 31.1
+    "exitPrice": 28.25
   }
 ]
